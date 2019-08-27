@@ -1,0 +1,25 @@
+- Call of Duty: Infinite Warfare
+- Developer(s)
+  - Infinity Ward
+- Publisher(s)
+  - Activision
+- Director(s)
+  - Jacob MinkoffJordan HirshBrian Bright
+- Designer(s)
+  - Joe Cecot
+- Writer(s)
+  - Taylor KurosakiBrian Bloom
+- Composer(s)
+  - Sarah Schachner[1]
+- Series
+  - Call of Duty
+- Engine
+  - IW Engine
+- Platform(s)
+  - Microsoft WindowsPlayStation 4Xbox One
+- Release
+  - November 4, 2016
+- Genre(s)
+  - First-person shooter
+- Mode(s)
+  - Single-player, multiplayer
